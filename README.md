@@ -6,5 +6,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 📌 About Me
+
 - 🎓 Pursuing **B.E. in Computer Science Engineering**.
+- 💚 I love to **learn** a lot.
+-  ✨ I'm someone who **builds things with purpose**.
+
+  ---
+  ##  🧑‍💻 What I Care About
+
+  - **Writing code** that actually gets used.
+  - Clean structure, clear logic, and practical deployment.
+  - **Consistency**.
+  - **Growth** - becoming better than yesterday and contributing to meaningful projects.
+
+  ---
