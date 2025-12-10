@@ -21,3 +21,22 @@
   - **Growth** - becoming better than yesterday and contributing to meaningful projects.
 
   ---
+
+## Tech Stack
+
+- **FrontEnd**
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,figma" />
+</p>
+
+- **BackEnd**
+   <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,java,python,c" />
+</p>
+
+- **Tools**
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
