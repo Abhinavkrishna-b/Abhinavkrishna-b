@@ -45,3 +45,9 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Abhinav_Krishna_B?theme=dark&font=Lexend&ext=contest)](https://leetcode.com/u/Abhinav_Krishna_B)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinavkrishna-b&bg_color=17000d&color=80ff80&line=80ffff&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinavkrishna-b&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
